@@ -1,10 +1,11 @@
-<p align="center">
+<div align="center">
 
 
-    # ROCS
-    ###### Rate OpenSource Contributors
+  # ROCS
+  _**R**ate **O**pen**S**ource **C**ontributors_
 
-  Leave a rating for those people that are either a pleasure to work with, or a pain in the anus
+    
+  **Leave a rating on your favourite (or least favourite) opensource contributors**
 
 
-</p>
+</div>
